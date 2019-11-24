@@ -1,0 +1,1 @@
+// This file is about the description of the project. It is an e-commerce application which is a real time application
